@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjg0+dtVRC1Fk6pSVjOhgf2WW1NB2JJV7wllXENltvqAWMTq/PAt1ABUyqO5DUuNVEuy128x5h+VRgxDcjUvfw==",
+  "success": true,
+  "projectFilePath": "C:\\SAIT SD TERM 2\\C#\\ASSIGNMENT\\Group Assignment\\Assignment1Skeleton\\A1ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tan Nguyen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Tan Nguyen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Tan Nguyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Tan Nguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\SAIT SD TERM 2\C#\ASSIGNMENT\Group Assignment\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
